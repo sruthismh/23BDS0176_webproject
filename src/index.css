@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  font-family: "Nunito", sans-serif;
+  text-decoration: none;
+  text-transform: capitalize;
+  transition: 0.2s linear;
+  background: #ffedfa;
+  scroll-behavior: smooth;
+}
